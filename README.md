@@ -42,9 +42,9 @@ A boilerplate for Scalable Cross-Platform Desktop Apps based on  <a href="http:/
 [![Dependency Status][david_img]][david_site]
 [![DevDependency Status][david_img_dev]][david_site_dev]
 [![Github Tag][github-tag-image]][github-tag-url]
-[![Join the chat at https://gitter.im/electron-react-boilerplate/Lobby](https://badges.gitter.im/electron-react-boilerplate/Lobby.svg)](https://gitter.im/electron-react-boilerplate/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![OpenCollective](https://opencollective.com/electron-react-boilerplate/backers/badge.svg)](#backers)
-[![OpenCollective](https://opencollective.com/electron-react-boilerplate/sponsors/badge.svg)](#sponsors)
+[![Join the chat at https://gitter.im/reactron-quick-start/Lobby](https://badges.gitter.im/reactron-quick-start/Lobby.svg)](https://gitter.im/reactron-quick-start/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![OpenCollective](https://opencollective.com/reactron-quick-start/backers/badge.svg)](#backers)
+[![OpenCollective](https://opencollective.com/reactron-quick-start/sponsors/badge.svg)](#sponsors)
 
 </div>
 
@@ -56,12 +56,12 @@ A boilerplate for Scalable Cross-Platform Desktop Apps based on  <a href="http:/
 
 ## Install
 
-- **If you have installation or compilation issues with this project, please see [our debugging guide](https://github.com/electron-react-boilerplate/electron-react-boilerplate/issues/400)**
+- **If you have installation or compilation issues with this project, please see [our debugging guide](https://github.com/cjschooley/reactron-quick-start/issues/400)**
 
 First, clone the repo via git:
 
 ```bash
-git clone --depth 1 --single-branch --branch master https://github.com/electron-react-boilerplate/electron-react-boilerplate.git your-project-name
+git clone --depth 1 --single-branch --branch master https://github.com/cjschooley/reactron-quick-start.git your-project-name
 ```
 
 And then install the dependencies with yarn.
@@ -155,14 +155,14 @@ This project comes with Flow support out of the box! You can annotate your code 
 
 ## Dispatching redux actions from main process
 
-See [#118](https://github.com/electron-react-boilerplate/electron-react-boilerplate/issues/118) and [#108](https://github.com/electron-react-boilerplate/electron-react-boilerplate/issues/108)
+See [#118](https://github.com/cjschooley/reactron-quick-start/issues/118) and [#108](https://github.com/cjschooley/reactron-quick-start/issues/108)
 
 ## How to keep your project updated with the boilerplate
 
 If your application is a fork from this repo, you can add this repo to another git remote:
 
 ```sh
-git remote add upstream https://github.com/electron-react-boilerplate/electron-react-boilerplate.git
+git remote add upstream https://github.com/cjschooley/reactron-quick-start.git
 ```
 
 Then, use git to merge some latest commits:
@@ -180,86 +180,86 @@ git pull upstream master
 
 ## Backers
 
-Support us with a monthly donation and help us continue our activities. [[Become a backer](https://opencollective.com/electron-react-boilerplate#backer)]
+Support us with a monthly donation and help us continue our activities. [[Become a backer](https://opencollective.com/reactron-quick-start#backer)]
 
-<a href="https://opencollective.com/electron-react-boilerplate/backer/0/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/backer/0/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/backer/1/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/backer/1/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/backer/2/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/backer/2/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/backer/3/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/backer/3/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/backer/4/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/backer/4/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/backer/5/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/backer/5/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/backer/6/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/backer/6/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/backer/7/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/backer/7/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/backer/8/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/backer/8/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/backer/9/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/backer/9/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/backer/10/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/backer/10/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/backer/11/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/backer/11/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/backer/12/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/backer/12/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/backer/13/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/backer/13/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/backer/14/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/backer/14/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/backer/15/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/backer/15/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/backer/16/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/backer/16/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/backer/17/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/backer/17/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/backer/18/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/backer/18/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/backer/19/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/backer/19/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/backer/20/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/backer/20/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/backer/21/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/backer/21/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/backer/22/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/backer/22/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/backer/23/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/backer/23/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/backer/24/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/backer/24/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/backer/25/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/backer/25/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/backer/26/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/backer/26/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/backer/27/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/backer/27/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/backer/28/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/backer/28/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/backer/29/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/backer/29/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/backer/0/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/backer/0/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/backer/1/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/backer/1/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/backer/2/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/backer/2/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/backer/3/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/backer/3/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/backer/4/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/backer/4/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/backer/5/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/backer/5/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/backer/6/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/backer/6/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/backer/7/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/backer/7/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/backer/8/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/backer/8/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/backer/9/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/backer/9/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/backer/10/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/backer/10/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/backer/11/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/backer/11/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/backer/12/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/backer/12/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/backer/13/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/backer/13/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/backer/14/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/backer/14/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/backer/15/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/backer/15/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/backer/16/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/backer/16/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/backer/17/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/backer/17/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/backer/18/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/backer/18/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/backer/19/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/backer/19/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/backer/20/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/backer/20/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/backer/21/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/backer/21/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/backer/22/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/backer/22/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/backer/23/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/backer/23/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/backer/24/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/backer/24/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/backer/25/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/backer/25/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/backer/26/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/backer/26/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/backer/27/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/backer/27/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/backer/28/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/backer/28/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/backer/29/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/backer/29/avatar.svg"></a>
 
 ## Sponsors
 
-Become a sponsor and get your logo on our README on Github with a link to your site. [[Become a sponsor](https://opencollective.com/electron-react-boilerplate#sponsor)]
+Become a sponsor and get your logo on our README on Github with a link to your site. [[Become a sponsor](https://opencollective.com/reactron-quick-start#sponsor)]
 
-<a href="https://opencollective.com/electron-react-boilerplate/sponsor/0/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/sponsor/0/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/sponsor/1/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/sponsor/1/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/sponsor/2/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/sponsor/2/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/sponsor/3/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/sponsor/3/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/sponsor/4/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/sponsor/4/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/sponsor/5/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/sponsor/5/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/sponsor/6/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/sponsor/6/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/sponsor/7/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/sponsor/7/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/sponsor/8/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/sponsor/8/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/sponsor/9/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/sponsor/9/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/sponsor/10/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/sponsor/10/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/sponsor/11/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/sponsor/11/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/sponsor/12/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/sponsor/12/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/sponsor/13/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/sponsor/13/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/sponsor/14/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/sponsor/14/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/sponsor/15/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/sponsor/15/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/sponsor/16/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/sponsor/16/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/sponsor/17/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/sponsor/17/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/sponsor/18/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/sponsor/18/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/sponsor/19/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/sponsor/19/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/sponsor/20/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/sponsor/20/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/sponsor/21/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/sponsor/21/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/sponsor/22/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/sponsor/22/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/sponsor/23/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/sponsor/23/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/sponsor/24/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/sponsor/24/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/sponsor/25/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/sponsor/25/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/sponsor/26/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/sponsor/26/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/sponsor/27/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/sponsor/27/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/sponsor/28/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/sponsor/28/avatar.svg"></a>
-<a href="https://opencollective.com/electron-react-boilerplate/sponsor/29/website" target="_blank"><img src="https://opencollective.com/electron-react-boilerplate/sponsor/29/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/sponsor/0/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/sponsor/0/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/sponsor/1/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/sponsor/1/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/sponsor/2/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/sponsor/2/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/sponsor/3/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/sponsor/3/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/sponsor/4/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/sponsor/4/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/sponsor/5/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/sponsor/5/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/sponsor/6/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/sponsor/6/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/sponsor/7/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/sponsor/7/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/sponsor/8/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/sponsor/8/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/sponsor/9/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/sponsor/9/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/sponsor/10/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/sponsor/10/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/sponsor/11/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/sponsor/11/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/sponsor/12/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/sponsor/12/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/sponsor/13/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/sponsor/13/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/sponsor/14/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/sponsor/14/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/sponsor/15/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/sponsor/15/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/sponsor/16/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/sponsor/16/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/sponsor/17/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/sponsor/17/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/sponsor/18/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/sponsor/18/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/sponsor/19/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/sponsor/19/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/sponsor/20/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/sponsor/20/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/sponsor/21/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/sponsor/21/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/sponsor/22/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/sponsor/22/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/sponsor/23/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/sponsor/23/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/sponsor/24/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/sponsor/24/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/sponsor/25/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/sponsor/25/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/sponsor/26/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/sponsor/26/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/sponsor/27/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/sponsor/27/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/sponsor/28/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/sponsor/28/avatar.svg"></a>
+<a href="https://opencollective.com/reactron-quick-start/sponsor/29/website" target="_blank"><img src="https://opencollective.com/reactron-quick-start/sponsor/29/avatar.svg"></a>
 
 ## License
 
-MIT © [Electron React Boilerplate](https://github.com/electron-react-boilerplate)
+MIT © [Electron React Boilerplate](https://github.com/reactron-quick-start)
 
-[npm-image]: https://img.shields.io/npm/v/electron-react-boilerplate.svg?style=flat-square
-[github-tag-image]: https://img.shields.io/github/tag/electron-react-boilerplate/electron-react-boilerplate.svg
-[github-tag-url]: https://github.com/electron-react-boilerplate/electron-react-boilerplate/releases/latest
-[travis-image]: https://travis-ci.com/electron-react-boilerplate/electron-react-boilerplate.svg?branch=master
-[travis-url]: https://travis-ci.com/electron-react-boilerplate/electron-react-boilerplate
-[appveyor-image]: https://ci.appveyor.com/api/projects/status/github/electron-react-boilerplate/electron-react-boilerplate?svg=true
-[appveyor-url]: https://ci.appveyor.com/project/electron-react-boilerplate/electron-react-boilerplate/branch/master
-[david_img]: https://img.shields.io/david/electron-react-boilerplate/electron-react-boilerplate.svg
-[david_site]: https://david-dm.org/electron-react-boilerplate/electron-react-boilerplate
-[david_img_dev]: https://david-dm.org/electron-react-boilerplate/electron-react-boilerplate/dev-status.svg
-[david_site_dev]: https://david-dm.org/electron-react-boilerplate/electron-react-boilerplate?type=dev
+[npm-image]: https://img.shields.io/npm/v/reactron-quick-start.svg?style=flat-square
+[github-tag-image]: https://img.shields.io/github/tag/cjschooley/reactron-quick-start.svg
+[github-tag-url]: https://github.com/cjschooley/reactron-quick-start/releases/latest
+[travis-image]: https://travis-ci.com/cjschooley/reactron-quick-start.svg?branch=master
+[travis-url]: https://travis-ci.com/cjschooley/reactron-quick-start
+[appveyor-image]: https://ci.appveyor.com/api/projects/status/github/cjschooley/reactron-quick-start?svg=true
+[appveyor-url]: https://ci.appveyor.com/project/cjschooley/reactron-quick-start/branch/master
+[david_img]: https://img.shields.io/david/cjschooley/reactron-quick-start.svg
+[david_site]: https://david-dm.org/cjschooley/reactron-quick-start
+[david_img_dev]: https://david-dm.org/cjschooley/reactron-quick-start/dev-status.svg
+[david_site_dev]: https://david-dm.org/cjschooley/reactron-quick-start?type=dev
